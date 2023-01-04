@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Jopelto",
+    "password": "123456",
+    "fullname": "Jonna pelto",
+    "_id": "4CFwX6",
+    "createdAt": 1672848423227
+  },
+  {
+    "username": "Tester",
+    "fullname": "Tester Bester",
+    "password": "Thetester",
+    "_id": "N5BVg0",
+    "createdAt": 1672840465267
+  },
+  {
+    "_id": "123",
+    "fullname": "Shay Skitel",
+    "username": "Skitsh",
+    "password": "123456grandma",
+    "isAdmin": true
+  },
+  {
+    "_id": "1234",
+    "fullname": "David Martinez",
+    "username": "Cyberpunk",
+    "password": "Sandevistan"
+  },
+  {
+    "_id": "12345",
+    "fullname": "Lucyna Kushinada",
+    "username": "Lucy",
+    "password": "Monowire"
+  }
+]
